@@ -4,5 +4,6 @@ Struktura foldera:
   - data/images
   - data/masks
   - results/
+
 Pokretanje:
   - src/main.py
